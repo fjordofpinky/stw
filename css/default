@@ -1,0 +1,67 @@
+#wrapper {
+  margin: 0px 0px 0 0;
+  padding: 0;
+  background-image: url(../images/background.jpg);
+  background-repeat: repeat-x;
+  width: 1200px;
+  background-color: #1f3e42;
+}
+#nav {
+  border-style: none;
+  margin: 0;
+  padding: 0;
+  text-transform: lowercase;
+  height: 32px;
+  font-family: Viner Hand ITC;
+  background-color: #ee107d;
+  color: white;
+  text-decoration: none;
+}
+#nav ul {
+  font-family: Viner Hand ITC;
+  color: white;
+  text-decoration: none;
+}
+#breadcrumbs {
+  font-family: "Courier New",Courier,monospace;
+  color: white;
+  font-size: 0.65em;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+#contentwrapper {
+  background-color: white;
+  opacity: 0.8;
+  width: 900px;
+  margin-right: 150px;
+  margin-left: 150px;
+  clear: both;
+}
+#left {
+  padding: 2.5px 5px;
+  font-family: "Courier New",Courier,monospace;
+  color: #295359;
+  font-size: 0.8em;
+  float: left;
+  width: 190px;
+}
+#content {
+  padding: 2.5px 5px;
+  float: right;
+  width: 690px;
+  font-family: "Courier New",Courier,monospace;
+  font-size: 0.8em;
+  color: #295359;
+}
+#bottom {
+}
+#footer {
+}
+a:link {
+  color: white;
+  text-decoration: none;
+}
+a:visited {
+}
+a:hover {
+}
